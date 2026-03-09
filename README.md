@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/hello%20i'm%20[name]-ffb7c5?style=for-the-badge&logoColor=white" />
-</p>
+# 🌸 hello, i'm viviienn
 
-<p align="center">
-  <i>"crafting a cozy, high-performance experience for macOS"</i>
-</p>
+> *crafting a cozy, high-performance experience for macOS*
 
----
-
-### 🎀 about me
 i’m a developer who loves building things that feel light and look beautiful. currently, i'm spending my time crafting a native, cozy experience for **macOS**. 
 
 i’m so happy to be collaborating with a close friend on a cross-platform project! while they take care of the windows side, i'm dedicated to making the macOS version feel perfectly at home.
@@ -16,19 +9,6 @@ i’m so happy to be collaborating with a close friend on a cross-platform proje
 ### ✨ what i'm up to
 * **🔭 i’m currently working on:** ![macOS Badge](https://img.shields.io/badge/macOS%20Launcher-ffc0cb?style=flat-square) — making it soft and fast.
 * **🌱 i’m currently learning:** new ways to make my UI feel "just right."
-
-### 🤝 let's grow together
-* **👯 i’m looking to collaborate on:** small, meaningful tools for the community.
-* **🤝 i’m looking for help with:** advanced UI scaling and design.
-
-### 💌 get in touch
-* **💬 ask me about:** my mac setup, the launcher's progress, or your favorite cozy games.
-* **⚡ fun fact:** [your fun fact here]
-
----
-<p align="center">
-  <img src="https://img.shields.io/badge/made%20with%20%E2%99%A1%20and%20magic-ffb7c5?style=flat" />
-</p>
 
 
 # 💻 Tech Stack:
