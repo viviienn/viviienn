@@ -1,6 +1,6 @@
-# 🌸 hello, i'm viviienn
+# 🌸 hello, i'm Vivi
 
-> *crafting a cozy, high-performance experience for macOS*
+> *welcome to my cozy abode 💕*
 
 i’m a developer who loves building things that feel light and look beautiful. currently, i'm spending my time crafting a native, cozy experience for **macOS**. 
 
@@ -17,8 +17,4 @@ I'm a dev for a friend'! While they take care of the windows side, i'm dedicated
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=viviienn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-https://github.com/LuniVex/lunivex-macos
----
-[![](https://visitcount.itsvg.in/api?id=viviienn&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
