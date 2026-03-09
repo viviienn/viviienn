@@ -4,11 +4,8 @@
 
 i’m a developer who loves building things that feel light and look beautiful. currently, i'm spending my time crafting a native, cozy experience for **macOS**. 
 
-i’m so happy to be collaborating with a close friend on a cross-platform project! while they take care of the windows side, i'm dedicated to making the macOS version feel perfectly at home.
+I'm a dev for a friend'! While they take care of the windows side, i'm dedicated to making the macOS version feel perfectly at home.
 
-### ✨ what i'm up to
-* **🔭 i’m currently working on:** ![macOS Badge](https://img.shields.io/badge/macOS%20Launcher-ffc0cb?style=flat-square) — making it soft and fast.
-* **🌱 i’m currently learning:** new ways to make my UI feel "just right."
 
 
 # 💻 Tech Stack:
