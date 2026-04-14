@@ -1,45 +1,15 @@
-```markdown
-&lt;div align="center"&gt;
-  &lt;h1&gt;🌸 hi there, i'm Lorenzo&lt;/h1&gt;
-  &lt;p&gt;&lt;i&gt;(but the internet knows me as Vivienne or Lush!)&lt;/i&gt;&lt;/p&gt;
-&lt;/div&gt;
+# 💫 About Me:
+🌸 hi there! i'm Lorenzo (but the internet knows me as Vivienne or Lush). i'm a developer and sixth form student studying Pure Maths, Computer Science, and Applied Science. i love crafting projects that feel light, look beautiful, and just make you smile 💕. currently building a solo Unity game called Lights Out and shipping aesthetic web apps like RouteShare. when i'm not wrangling code, i'm probably sipping tea or doodling app icons!
+
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=viviienn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=viviienn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=viviienn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=viviienn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💭 about me
-
-i'm a developer who loves crafting projects that are beautiful, intuitive, and just *make you smile*. currently grinding through sixth form in the UK studying **Pure Maths**, **Computer Science**, and **Applied Science** while building things on the side.
-
-- 🎮 working on **Lights Out**, a solo Unity game written entirely in C#
-- 🗺️ recently shipped **[RouteShare](https://github.com/viviienn/RouteShare)**, an open-source map routing tool
-- 🍵 usually sipping tea, doodling app icons, or daydreaming about life
-- 💻 i live in iMessage and use my Apple Watch to stay productive
-
----
-
-### 🛠️ tech i vibe with
-
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" /&gt;
-&lt;/p&gt;
-
----
-
-### 🌐 connect with me
-
-- 🌸 **website:** [vivienne.work](https://vivienne.work/)
-- 📧 **email:** hello@vivienne.work
-
----
-
-&lt;div align="center"&gt;
-  &lt;i&gt;crafting things that feel light, look beautiful, and make you smile 💕&lt;/i&gt;
-&lt;/div&gt;
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
