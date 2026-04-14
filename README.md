@@ -1,20 +1,45 @@
-# 🌸 hello, i'm Vivi
+```markdown
+&lt;div align="center"&gt;
+  &lt;h1&gt;🌸 hi there, i'm Lorenzo&lt;/h1&gt;
+  &lt;p&gt;&lt;i&gt;(but the internet knows me as Vivienne or Lush!)&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-> *welcome to my cozy abode 💕*
+---
 
-i’m a developer who loves building things that feel light and look beautiful. currently, i'm spending my time crafting a native, cozy experience for **macOS**. 
+### 💭 about me
 
-I'm a dev for a friend'! While they take care of the windows side, i'm dedicated to making the macOS version feel perfectly at home.
+i'm a developer who loves crafting projects that are beautiful, intuitive, and just *make you smile*. currently grinding through sixth form in the UK studying **Pure Maths**, **Computer Science**, and **Applied Science** while building things on the side.
 
+- 🎮 working on **Lights Out**, a solo Unity game written entirely in C#
+- 🗺️ recently shipped **[RouteShare](https://github.com/viviienn/RouteShare)**, an open-source map routing tool
+- 🍵 usually sipping tea, doodling app icons, or daydreaming about life
+- 💻 i live in iMessage and use my Apple Watch to stay productive
 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=viviienn&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=viviienn&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viviienn&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ tech i vibe with
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viviienn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" /&gt;
+  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" /&gt;
+&lt;/p&gt;
 
+---
+
+### 🌐 connect with me
+
+- 🌸 **website:** [vivienne.work](https://vivienne.work/)
+- 📧 **email:** hello@vivienne.work
+
+---
+
+&lt;div align="center"&gt;
+  &lt;i&gt;crafting things that feel light, look beautiful, and make you smile 💕&lt;/i&gt;
+&lt;/div&gt;
+```
